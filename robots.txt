@@ -1,0 +1,24 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://vumavani.github.io/sitemap/sitemap_index.vumavani
+Sitemap: https://vumavani.github.io/TQP/sitemap_index.vumavani
+Sitemap: https://vumavani.github.io/qQX/sitemap_index.vumavani
+Sitemap: https://vumavani.github.io/ItA/sitemap_index.vumavani
+Sitemap: https://vumavani.github.io/pPT/sitemap_index.vumavani
+Sitemap: https://vumavani.github.io/THq/sitemap_index.vumavani
+Sitemap: https://vumavani.github.io/Nuj/sitemap_index.vumavani
+Sitemap: https://vumavani.github.io/vTc/sitemap_index.vumavani
+Sitemap: https://vumavani.github.io/tuJ/sitemap_index.vumavani
+Sitemap: https://vumavani.github.io/mEf/sitemap_index.vumavani
+Sitemap: https://vumavani.github.io/kBe/sitemap_index.vumavani
+Sitemap: https://vumavani.github.io/ZBR/sitemap_index.vumavani
+Sitemap: https://vumavani.github.io/hCs/sitemap_index.vumavani
+Sitemap: https://vumavani.github.io/GAb/sitemap_index.vumavani
+Sitemap: https://vumavani.github.io/CSg/sitemap_index.vumavani
+Sitemap: https://vumavani.github.io/IoJ/sitemap_index.vumavani
+Sitemap: https://vumavani.github.io/jnc/sitemap_index.vumavani
+Sitemap: https://vumavani.github.io/nvd/sitemap_index.vumavani
+Sitemap: https://vumavani.github.io/FNX/sitemap_index.vumavani
+Sitemap: https://vumavani.github.io/Bgx/sitemap_index.vumavani
+Sitemap: https://vumavani.github.io/BWk/sitemap_index.vumavani
